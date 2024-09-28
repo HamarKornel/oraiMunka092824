@@ -5,6 +5,10 @@ import e14
 import e15
 import e5
 import e11
+import mintaW1
+import mintaFor
+import c1
+import cGyakorlas
 
 # e6.szog()
 # e7.negyzegyok()
@@ -12,4 +16,25 @@ import e11
 # e14.kocka()
 # e15.teglalap()
 # e5.honap()
-e11.husvet()
+# e11.husvet()
+
+
+# ciklusok
+# mintaW1.mintaWhile1()
+# mintaW1.mintaWhile2()
+# mintaW1.mintaWhile3()
+# mintaFor.szamlalo1()
+# mintaFor.szamlalo2()
+# mintaFor.szamlalo3()
+# mintaFor.szamlalo4()
+# mintaFor.szamlalo5()
+# c1.a()
+# c1.b()
+# c1.c()
+# cGyakorlas.harom()
+# cGyakorlas.negy()
+# cGyakorlas.ot()
+# cGyakorlas.hat()
+# cGyakorlas.het()
+cGyakorlas.nyolc()
+cGyakorlas.kilenc()
